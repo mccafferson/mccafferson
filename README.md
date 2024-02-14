@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏻
+
+After a much needed break, I’m on the hunt for a new gig! I’m a senior frontend engineer with over a decade of experience, passionate about building beautiful, accessible and performant user interfaces (I ❤ React + TypeScript). Previously at [Candis](https://www.candis.io/), [Dunnhumby](https://www.dunnhumby.com/), [Sociomantic](https://github.com/sociomantic-tsunami) and [BookingBug](https://github.com/BookingBug) (now [JRNI](https://www.jrni.com/)). Looking for full-time in Berlin or remote. If you’re hiring, [please let me know](https://rp2fpuvnsdq.typeform.com/to/iJ1vRUs6) ✌🏻
 
 <!--
 **mccafferson/mccafferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
